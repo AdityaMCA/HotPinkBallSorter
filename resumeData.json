@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Pranav Sitaraman",
+    "description":"I'm a 10th grader from Edison, New Jersey interested in programming and so much more!",
+    "image":"profilepic.jpg",
+    "bio":"An aspiring programmer who loves playing the guitar, the saxophone, and the piano, as well as soccer, robotics, and, of course, coding!",
+    "contactmessage":"Get in contact with me!",
+    "email": "sitaraman.pranav@gmail.com",
+    "phone": "(908) 324-8271",
+    "github":"https://github.com/PranavSitaraman/",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "https://pranavsitaraman.github.io/",
+    "resumedownload":"https://drive.google.com/file/d/1GHG_C4IAcU6_X2kmKdKHLuW_4Wgy3bsn/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/pranav.sitaraman.456/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/SitaramanPranav/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/pranav.sitaraman.456/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/PranavSitaraman/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"spotify",
+        "url":"https://open.spotify.com/user/pranavsitaraman/",
+        "className":"fa fa-spotify"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Full-stack developer",
+    "education":[
+      {
+        "school":"Middlesex County Academy for Science, Mathematics, and Engineering Technologies",
+        "degree":"High School Diploma",
+        "graduated":"June 2024",
+        "description":"C, C++, Python, Java"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C/C++",
+        "level":"90%"
+      },
+      {
+        "name":"PYTHON",
+        "level":"60%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"80%"
+      },
+      {
+        "name":"JS",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"50%"
+      },
+      {
+        "name":"C#",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DayTripNJ",
+        "category":"Submission for TSA 2022",
+        "image":"15.jpg",
+        "url":"https://github.com/PranavSitaraman/DayTrip-NJ"
+      },
+      {
+        "title":"WordGuesser",
+        "category":"A simple word-guessing game built with XAML",
+        "image":"14.jpg",
+        "url":"https://github.com/PranavSitaraman/WordGuesser"
+      },
+      {
+        "title":"LocalPin",
+        "category":"Submission for the 2022 Congressional App Challenge",
+        "image":"13.jpg",
+        "url":"https://github.com/PranavSitaraman/LocalPin"
+      },
+      {
+        "title":"GlobalizationFacilitator",
+        "category":"A marketing tool for small businesses",
+        "image":"06.jpg",
+        "url":"https://github.com/PranavSitaraman/GlobalizationFacilitator"
+      },
+      {
+        "title":"CarbonCalc",
+        "category":"Submission for CharterHacks 2021",
+        "image":"05.jpg",
+        "url":"https://github.com/PranavSitaraman/CarbonCalc"
+      },
+      {
+        "title":"CovidCalc",
+        "category":"Submission for HackJA 2021",
+        "image":"04.jpg",
+        "url":"https://github.com/PranavSitaraman/CovidCalc"
+      }
+    ]
+  }
+}
